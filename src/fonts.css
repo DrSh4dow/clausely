@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/fonts/Recoleta-Regular.eot'); /* IE9 Compat Modes */
+	src:
+		local(''),
+		url('/fonts/Recoleta-Regular.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */ url('/fonts/Recoleta-Regular.woff2') format('woff2'),
+		/* Super Modern Browsers */ url('/fonts/Recoleta-Regular.woff') format('woff'),
+		/* Modern Browsers */ url('/fonts/Recoleta-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 500;
+	src: url('/fonts/Recoleta-Medium.eot'); /* IE9 Compat Modes */
+	src:
+		local(''),
+		url('/fonts/Recoleta-Medium.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */ url('/fonts/Recoleta-Medium.woff2') format('woff2'),
+		/* Super Modern Browsers */ url('/fonts/Recoleta-Medium.woff') format('woff'),
+		/* Modern Browsers */ url('/fonts/Recoleta-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 600;
+	src: url('/fonts/Recoleta-SemiBold.eot'); /* IE9 Compat Modes */
+	src:
+		local(''),
+		url('/fonts/Recoleta-SemiBold.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */ url('/fonts/Recoleta-SemiBold.woff2') format('woff2'),
+		/* Super Modern Browsers */ url('/fonts/Recoleta-SemiBold.woff') format('woff'),
+		/* Modern Browsers */ url('/fonts/Recoleta-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 700;
+	src: url('/fonts/Recoleta-Bold.eot'); /* IE9 Compat Modes */
+	src:
+		local(''),
+		url('/fonts/Recoleta-Bold.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */ url('/fonts/Recoleta-Bold.woff2') format('woff2'),
+		/* Super Modern Browsers */ url('/fonts/Recoleta-Bold.woff') format('woff'),
+		/* Modern Browsers */ url('/fonts/Recoleta-Bold.ttf') format('truetype');
+}

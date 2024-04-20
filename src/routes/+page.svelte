@@ -1,2 +1,3 @@
-<h1 class="text-xl font-semibold">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="text-xl font-semibold">Clausely</h1>
+
+<p class="font-recoleta">This text will use deafult recoleta</p>
