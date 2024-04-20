@@ -51,3 +51,16 @@
 		/* Super Modern Browsers */ url('/fonts/Recoleta-Bold.woff') format('woff'),
 		/* Modern Browsers */ url('/fonts/Recoleta-Bold.ttf') format('truetype');
 }
+
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 900;
+	src: url('/fonts/Recoleta-Black.eot'); /* IE9 Compat Modes */
+	src:
+		local(''),
+		url('/fonts/Recoleta-Black.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */ url('/fonts/Recoleta-Black.woff2') format('woff2'),
+		/* Super Modern Browsers */ url('/fonts/Recoleta-Black.woff') format('woff'),
+		/* Modern Browsers */ url('/fonts/Recoleta-Black.ttf') format('truetype');
+}
