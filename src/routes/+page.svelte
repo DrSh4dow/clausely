@@ -10,7 +10,7 @@
 		class="container grid grid-cols-1 items-start gap-x-24 gap-y-4 sm:gap-y-8 md:grid-rows-[auto_auto_auto] md:gap-y-10 lg:justify-between xl:grid-cols-[610px_1fr]"
 	>
 		<div>
-			<h1 class="font-recoleta text-4xl/[120%] font-bold md:text-5xl/[120%] lg:text-[54px]/[120%]">
+			<h1 class="font-recoleta text-4xl/[120%] font-bold md:text-5xl/[120%] xl:text-[54px]/[120%]">
 				Terms &amp; Conditions<br /><span class="text-primary">Analyser</span>
 			</h1>
 		</div>
